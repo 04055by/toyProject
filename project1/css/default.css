@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'YEONGJUSeonbiTTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2403@1.0/YEONGJUSeonbiTTF.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    background-color: pink;
+}
+
+*{
+    font-family: 'YEONGJUSeonbiTTF';
+}

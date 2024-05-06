@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "project1",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../../Downloads/MyMBTI-main/MyMBTI-main/#5. Img Version/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project1"
+	}
+}
